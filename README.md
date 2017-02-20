@@ -1,2 +1,1 @@
-# weblogin
-use selenium auto login website
+# Some Python Scripts
